@@ -38,6 +38,10 @@ Below are the attached screenshots for each recreated sections taken from the or
 ## Footer
 ![Footer](https://github.com/Mahin-katariya/Cursor-UI-Clone/blob/main/assets/screenshots/footerCursor.jpeg)
 
+
+## Link for the page -
+[Project Link](https://cursorui-six.vercel.app/)
+
 ## Setup & Installation
 
 Since this portfolio is a standalone HTML file, there are no complex dependencies or build steps.
